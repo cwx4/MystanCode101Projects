@@ -1,1 +1,1 @@
-# MystanCode101Projects
+# SC101Projects
